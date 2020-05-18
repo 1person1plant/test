@@ -20,6 +20,8 @@ public class Test {
 		System.out.println("master 진행중~ semi 때는 마스터 하나로 하세요");
 		
 		System.out.println("김경남 왔다감");
+		
+		System.out.println("이아라 왔다감");
 
 
 	}
