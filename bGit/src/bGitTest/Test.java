@@ -13,6 +13,8 @@ public class Test {
 		System.out.println("XXXXXXXXX");
 		
 		System.out.println("ZZZZZZZZZ");
+		
+		System.out.println("B");
 
 
 
