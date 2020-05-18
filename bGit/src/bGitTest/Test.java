@@ -11,12 +11,20 @@ public class Test {
 		System.out.println("YYYYYYYYY");
 
 		System.out.println("XXXXXXXXX");
+
+		System.out.println("A");
+
 		
 		System.out.println("ZZZZZZZZZ");
 		
+
 		System.out.println("B");
 		
 		System.out.println("branch를 만들고 나 홀로 개발 진행중~"); 
+
+		System.out.println("master 진행중~ semi 때는 마스터 하나로 하세요");
+
+
 
 
 
