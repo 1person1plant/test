@@ -22,8 +22,12 @@ public class Test {
 		System.out.println("김경남 왔다감");
 		
 		System.out.println("이아라 왔다감");
-		System.out.println("이수한");
 
+		System.out.println("이수한");
+		
+		System.out.println("kks"); 
+		
+		
 	}
 
 }
